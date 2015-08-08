@@ -1,0 +1,15 @@
+Package: com.munson15.infiniloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ray Reilly <raymondreilly15@gmail.co >
+Depends: winterboard
+Filename: ./debs//com.munson15.infiniloader_1.0_iphoneos-arm.deb
+Size: 668
+MD5sum: f7c8ffc827f8726e3997ef6aa4a1347b
+SHA1: 7fbb1942ae72b3d2c836995b2a5c1dd5704fbc84
+SHA256: e48d415586283bdea70345b860b4f9a4695855c3b98c408351b28d37959d8986
+Section: Themes (Springboard)
+Description: A cool theme:)
+Author: Ray Reilly
+Name: InfiniLoader
+

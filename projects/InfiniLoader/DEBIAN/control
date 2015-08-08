@@ -1,0 +1,9 @@
+Package: com.munson15.infiniloader
+Name: InfiniLoader
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A cool theme:)
+Maintainer: Ray Reilly <raymondreilly15@gmail.co >
+Author: Ray Reilly
+Section: Themes (Springboard)
