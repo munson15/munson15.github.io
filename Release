@@ -1,0 +1,8 @@
+Origin: Munson's Public Repo
+Label: Munson's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Munson's Repo Never Disrespect the 6-God
